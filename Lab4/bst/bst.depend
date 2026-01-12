@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1765469084 source:d:\iti\ds\labs\lab4\bst\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
